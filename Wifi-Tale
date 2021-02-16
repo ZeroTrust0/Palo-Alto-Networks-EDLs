@@ -1,0 +1,16 @@
+# Telenor
+# https://eyenetworks.no/wp-content/uploads/Erik-Taraldsen-Telenor-VoWiFi-fagdag2016.pdf
+# IKE og ipsec-esp-udp App-ID
+77.16.1.124/29
+
+# Telia
+89.9.84.41
+89.9.88.41
+89.9.92.41
+89.9.84.38
+89.9.88.38
+89.9.92.38
+
+# ICE
+# epdg.epc.mnc014.mcc242.pub.3gppnetwork.org
+217.13.9.76
